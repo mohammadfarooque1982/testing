@@ -3,3 +3,6 @@ HI
 bye
 see
 you
+hi
+hello
+bolo
